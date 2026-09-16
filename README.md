@@ -1,7 +1,7 @@
 # Prebuit
 Prebuit something
 
-## 1. PaddleOCR for Aarch66 (GB10)
+## 1. PaddleOCR for Aarch64 (GB10)
 
 Following guide
 
